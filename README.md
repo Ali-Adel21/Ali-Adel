@@ -21,6 +21,9 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/aliadel19_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><a href="mailto:ah0594374@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20[Your%20Name],%0A%0AI%20found%20your%20project%20on%20GitHub%20and%20would%20like%20to%20contact%20you." target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-%23EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Contact Me on Gmail">
+</a></p>
 
 
 <picture>
